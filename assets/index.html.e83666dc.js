@@ -1,0 +1,1 @@
+const t={key:"v-ce362b04",path:"/add-ons/displays/",title:"Displays",lang:"en-US",frontmatter:{tags:[""]},excerpt:"",headers:[],git:{updatedTime:164662026e4,contributors:[{name:"austinscreations",email:"70245481+austinscreations@users.noreply.github.com",commits:2}]},filePathRelative:"add-ons/displays/README.md"};export{t as data};

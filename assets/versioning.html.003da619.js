@@ -1,0 +1,1 @@
+const e={key:"v-36c11792",path:"/guides/standards/versioning.html",title:"Hardware / Software Versioning Guide",lang:"en-US",frontmatter:{tags:[""]},excerpt:"",headers:[],git:{updatedTime:1637554465e3,contributors:[{name:"austinscreations",email:"70245481+austinscreations@users.noreply.github.com",commits:2}]},filePathRelative:"guides/standards/versioning.md"};export{e as data};

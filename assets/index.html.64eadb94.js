@@ -1,0 +1,1 @@
+const t={key:"v-26ddfca6",path:"/add-ons/switches/",title:"Switches",lang:"en-US",frontmatter:{tags:[""]},excerpt:"",headers:[],git:{updatedTime:164662026e4,contributors:[{name:"austinscreations",email:"70245481+austinscreations@users.noreply.github.com",commits:2}]},filePathRelative:"add-ons/switches/README.md"};export{t as data};

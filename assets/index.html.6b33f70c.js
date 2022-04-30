@@ -1,0 +1,1 @@
+const t={key:"v-40cfdefe",path:"/add-ons/accessibility/",title:"Accessibility",lang:"en-US",frontmatter:{tags:[""]},excerpt:"",headers:[],git:{updatedTime:164662026e4,contributors:[{name:"austinscreations",email:"70245481+austinscreations@users.noreply.github.com",commits:3}]},filePathRelative:"add-ons/accessibility/README.md"};export{t as data};

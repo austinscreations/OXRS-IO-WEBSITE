@@ -1,0 +1,1 @@
+const t={key:"v-50827ad3",path:"/guides/standards/IO-ethernet.html",title:"IO Ethernet Guide",lang:"en-US",frontmatter:{tags:[""]},excerpt:"",headers:[],git:{updatedTime:1637554465e3,contributors:[{name:"austinscreations",email:"70245481+austinscreations@users.noreply.github.com",commits:2}]},filePathRelative:"guides/standards/IO-ethernet.md"};export{t as data};
